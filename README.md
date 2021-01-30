@@ -2,7 +2,7 @@
 This is the official repository of the servo controlled rubber band launcher!
 
 ## Rubber Band Launcher Pre-Planning
-##### Create your question:
+#####
 What are you trying to accomplish?
 We are planning to have a servo turn a tightened rubberband, with the goal that when you press a button, the servo that is holding the band will release the band, and it will fly.  When the band has been released, there will be a different button that causes the servo to turn back into its original position so that another band can be tightened and released again.
 
