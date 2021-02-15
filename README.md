@@ -23,33 +23,6 @@ Jabari: will research design ideas.
 ##### https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/853e3d7f52100516492cad3c
 
 ## Psuedo Code
-c++
+https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit
 
-Program start
-Identify my servo
-
-Initialize agngles to 180 from 180
-
-Define variables and pins
- x to left
- x to right
-
-Void setup
-  Serial Begin
-  Pinmode left
-      Pin x to left
-  Pinmode right
-      Pin x to right
-Servo angle 180 from 180 
-
-Void Loop
-  Digital Read
-  Serial Print angel, left, depending
-  Serial Print degree, 180
-  
-Void Loop
-  Digital Read
-  Serial Print angel, right depending
-  Serial Print degree, 180
-c++     
       
