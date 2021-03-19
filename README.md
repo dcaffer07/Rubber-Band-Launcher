@@ -21,7 +21,7 @@ Jabari: will research design ideas.
 
 ## [OnShape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/853e3d7f52100516492cad3c)
 
-![alt text](file:///C:/Users/DominickC/Downloads/Rubber%20Band%20Launcher.pdf)
+![alt text](![image](https://user-images.githubusercontent.com/71406831/111812270-55cb3580-88ae-11eb-9d39-afd774ff56dd.png))
 
 ## [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
 
