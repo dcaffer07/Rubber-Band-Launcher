@@ -21,7 +21,7 @@ Jabari: will research design ideas.
 
 ## [OnShape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/853e3d7f52100516492cad3c)
 
-![alt text](https://upload.wikimedia.org/wikipedia/en/thumb/6/6f/New_York_Yankees_game_at_Yankee_Stadium.jpg/1280px-New_York_Yankees_game_at_Yankee_Stadium.jpg)
+![alt text](file:///C:/Users/DominickC/Downloads/Rubber%20Band%20Launcher.pdf)
 
 ## [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
 
