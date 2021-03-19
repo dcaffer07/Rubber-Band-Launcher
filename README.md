@@ -22,7 +22,6 @@ Jabari: will research design ideas.
 ## Link to OnShape Doc w/ Design
 ##### https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/853e3d7f52100516492cad3c
 
-## Psuedo Code
-https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit
+## [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
 
       
