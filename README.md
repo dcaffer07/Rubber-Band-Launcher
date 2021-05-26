@@ -26,3 +26,4 @@ Jabari: will research design ideas.
 ### [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
 
       
+### Pictures:
