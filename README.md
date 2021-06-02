@@ -32,4 +32,4 @@ Jabari: will research design ideas.
 
 ![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic.jpg?raw=true)
 
-![This is not so finished product](blob:chrome-untrusted://media-app/a2f1773f-9b91-47fb-9ea3-ecf33ed73eb2)
+![This is not so finished product](<img src="blob:chrome-untrusted://media-app/d737cc0d-8067-4865-afdf-65bd2134350b" alt="Screenshot 2021-06-02 3.33.29 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/120542777-80129680-c3b9-11eb-9420-c0bc74d22609.png))
