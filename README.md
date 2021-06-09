@@ -28,7 +28,12 @@ This is the official repository of the servo controlled rubber band launcher!
 >Dominick: He will be in charge of helping create an initial design, and than will be in charge of designing and creating it on OnShape.  Additionally, Dominick will be there during the lazer cutting and 3D printing process, and will put together the design and all of its parts.  
 >Jabari: He will also be helping research design ideas to get the procces going.  Additionally, Jabari will be in charge of creating the code, and wiring for the design.  He will impliment his wiring design in the lab and int the final project.
 
-
+### Criteria and Constraints
+##### The servo had to be (Criteria)
+> - Able to fit in a hand
+> - Battery-powered
+> - One Button turns the servo one way
+> - The other button turns the servo the other way
       
 ### Pictures
 
