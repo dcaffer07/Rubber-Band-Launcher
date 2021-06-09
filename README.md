@@ -57,7 +57,9 @@ This is the official repository of the servo controlled rubber band launcher!
 > - Acrylic platform - 100cm x 200cm x 3cm
 > - 3D printed material
 ##### For Wiring
-> - 
+> - 2 2k resistors
+> - 2 panal mount pushbuttons 
+> - 15 wires (color varies)
 
 ### Cad Design on OnShape 
 > When creating this design, it was important that the structure was functional and easy to use without it being over complicated.  Additionally, it was important that the structure fit the criteria of being able to fit in one hand, which sounds simple, however this become a very large and difficult factor when the rubber band needs to be stretched to a point of being able to shoot with some umph.  This is when we cam up with the idea of wraping the rubber band, in lther words, we constructed this design in simolaritie to how one owould shoot a ruber band with their hand (hook the band arond your middel finger, wrap it around your thumb which is pointed up, and than hook it to your pointer finger pointing to where you want the band to shoot, and then release it by straigtening your middle finger).  This is the design that we decided to go with, only instead of a pointer finger there was a 3D printed triangle, and instead of a thum there was another 3D printed trinagle, and finally, instead of a middle finger, there is a servo which releases the rubber band by turning its head.  
@@ -70,6 +72,8 @@ This is the official repository of the servo controlled rubber band launcher!
 ![image](https://user-images.githubusercontent.com/71406831/121391595-899d8080-c91c-11eb-9da7-e67129a070b4.png)
 > We are ready to print ad lazer cut! 
 [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
+
+### Circuit Digram from TinkerCad
 
 ### Code from Arduino.cc
 ```C++
