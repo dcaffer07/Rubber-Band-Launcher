@@ -131,3 +131,11 @@ if(btn2State == HIGH)
 ![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic2.jpg?raw=true)![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic.jpg?raw=true)
 
 ### Reflection
+##### Overall take on the project
+> Overall we thought this project was chalenging, but a ton of fun. We think that this project allowed for us to be creative and show off our individual strengths, while also making us work on the things that we may be less comfortable with and need to improve on.  It was obviously a little bit challenging having to do a colaborative project during covid, but we think we were still able to work together and create a product that we can be proud of.  With that being said howver, there are few things that we would have done differnetly if I were able to do this project again...
+##### Thinhs I would have done differently:
+> Been more colaborative with our partner.  Especially at the beggining of this project, it was a little bit odd having to do a project with someone you have never met, however as we learned toward the end of the project, everything is significantly when you work together.
+> I wish we would have had more of a pla before jumping into things.  I think that the process was slowed by the fact that we were planning as we went, rather than having a well thought out plan at the beggining, and just sticking with it.
+> Finally, I wish that we had created more of a stretch point for the rubber band to work off of.  What I meen by this is that although it worked and wrked well, I wish we could have created more of a whip to shoot the band harder.  
+##### Conclusion
+> As stated, I really enjoyed the project as a whole, and i would highly reccomend it to someone else in the future. It was awesome to get to experience the lab and all it has to offer, and we look forward to doing more projects like this in the future!!!!!!!
