@@ -2,7 +2,7 @@
 This is the official repository of the servo controlled rubber band launcher!
 
 ### Table of Contents 
-##### [Overview] 
+##### [Overview](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#overview-1) 
 ##### [Criteria & Contraints]
 ##### [Materials]
 ##### [Cad Design on OnShape]
