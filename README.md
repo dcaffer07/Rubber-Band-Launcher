@@ -72,6 +72,47 @@ This is the official repository of the servo controlled rubber band launcher!
 [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
 
 ### Code from Aurduino.cc
+c++
+#include <Servo.h>
+
+Servo myServo;
+
+int btn1pin = 2;
+int btn2pin = 3; 
+int servoPin = 9;
+int btn1State;
+int btn2State;
+  
+void setup() {
+ Serial.begin(9600); 
+ myServo.attach(servoPin);
+ 
+ pinMode(btn1pin,INPUT);
+  pinMode(btn2pin,INPUT);
+}
+void loop() {
+  btn1State = digitalRead(btn1pin);
+ btn2State = digitalRead(btn2pin);
+ 
+ Serial.print("button 1: ");
+ Serial.print(btn1State);
+ Serial.print("\t button 2: ");
+ Serial.println(btn2State);
+ if(btn1State == HIGH)
+ { 
+ 
+ myServo.write(180); 
+ 
+ }
+ 
+if(btn2State == HIGH)
+ { 
+ 
+ myServo.write(90); 
+ 
+ } 
+
+}c++
 
 ### Fabrication, Lazer cutting and assembly
 ##### The beggining
