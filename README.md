@@ -7,7 +7,7 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### [Materials](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#materials-1)
 ##### [Cad Design on OnShape](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#cad-deesign-on-onshape)
 ##### [Code from Aurduino.cc]() 
-##### [Fabrication, Lazer cutting and assembly]()
+##### [Fabrication, Lazer cutting and assembly](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#fabrication-lazer-cutting-and-assembly-1)
 ##### [Reflection]()
 
 ### Quik Links Toooooooo...
