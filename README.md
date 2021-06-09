@@ -77,38 +77,38 @@ This is the official repository of the servo controlled rubber band launcher!
 
 Servo myServo;
 
-int btn1pin = 2;
-int btn2pin = 3; 
-int servoPin = 9;
-int btn1State;
-int btn2State;
+int btn1pin = 2; Setup for future interactions
+int btn2pin = 3; Setup for future interactions
+int servoPin = 9; Setup for future interactions
+int btn1State; Setup for future interactions
+int btn2State; Setup for future interactions
   
 void setup() {
- Serial.begin(9600); 
- myServo.attach(servoPin);
+ Serial.begin(9600); meening the servo is on
+ myServo.attach(servoPin); allowing servo to move when on
  
- pinMode(btn1pin,INPUT);
+ pinMode(btn1pin,INPUT); 
   pinMode(btn2pin,INPUT);
 }
 void loop() {
-  btn1State = digitalRead(btn1pin);
- btn2State = digitalRead(btn2pin);
+  btn1State = digitalRead(btn1pin); pairing servo with button
+ btn2State = digitalRead(btn2pin); pairing servo with button
  
- Serial.print("button 1: ");
- Serial.print(btn1State);
- Serial.print("\t button 2: ");
- Serial.println(btn2State);
- if(btn1State == HIGH)
+ Serial.print("button 1: "); This is saying that if it is button 1, than it is high, and the servo will turn.
+ Serial.print(btn1State);   This is simply sayig for the button to communicate the state to the servo for button 1.
+ Serial.print("\t button 2: ");  This is saying that if it is button 2, than it is high, and the servo will turn the other way.
+ Serial.println(btn2State);   This is simply sayig for the button to communicate the state to the servo for button 2.
+ if(btn1State == HIGH) When button is pressed
  { 
  
- myServo.write(180); 
+ myServo.write(180); This is saying if button 1 is pessed this will occur to the servo.
  
  }
  
-if(btn2State == HIGH)
+if(btn2State == HIGH) When button is pressed
  { 
  
- myServo.write(90); 
+ myServo.write(90);  This is saying if button 2 is pessed this will occur to the servo.
  
  } 
 
