@@ -10,10 +10,9 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### Fabrication, Lazer cutting and assembly
 ##### Reflection
 
-### Overview
-#####
-What are you trying to accomplish?
-We are planning to have a servo turn a tightened rubberband, with the goal that when you press a button, the servo that is holding the band will release the band, and it will fly.  When the band has been released, there will be a different button that causes the servo to turn back into its original position so that another band can be tightened and released again.
+#### Overview
+##### What are you trying to accomplish?
+>We (Jabari and Dominick), plan to design a device that shoots a rbber band. This will be accomplished by a rubber band being pulled tightly around variouse different 3D printed objects along with a servo at the end that will cause the rubber band to fly when the servo turns.  The tention of the rubber band will allow for this to occur and function. We will use variouse differnt platforms such as OnShape, Tinkercad, and Aurduino, to help us plan ot the variouse steps pof the process ad reach our end goal.   
 
 Criteria (goals):
 What’s it going to do?
