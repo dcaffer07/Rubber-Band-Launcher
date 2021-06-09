@@ -67,8 +67,7 @@ This is the official repository of the servo controlled rubber band launcher!
 > 3) Add all buttons, servos, ardunios, and battery mounts to the base which already contain muach of the holes for these things.
 ##### Create a final assembly!
 > At this point all that needs to be done is to put everything together into a final assembly...
-![image](<img src="blob:chrome-untrusted://media-app/79158bd1-fdb0-40ed-8340-3dbf65a25e29" alt="Screenshot 2021-06-09 12.12.25 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/121391595-899d8080-c91c-11eb-9da7-e67129a070b4.png)
-)
+![image](https://user-images.githubusercontent.com/71406831/121391595-899d8080-c91c-11eb-9da7-e67129a070b4.png)
 > We are ready to print ad lazer cut!
 
 ### Pictures
