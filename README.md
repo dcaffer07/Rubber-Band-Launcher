@@ -6,13 +6,13 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### [Criteria & Contraints](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#criteria-and-constraints)
 ##### [Materials](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#materials-1)
 ##### [Cad Design on OnShape](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#cad-deesign-on-onshape)
-##### [Code from Aurduino.cc](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#code-from-aurduinocc-1) 
+##### [Code from Arduino.cc](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#code-from-aurduinocc-1) 
 ##### [Fabrication, Lazer cutting and assembly](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#fabrication-lazer-cutting-and-assembly-1)
 ##### [Reflection](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#reflection-1)
 
 ### Quik Links Toooooooo...
 ##### [Onshape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
-##### [Code on Aurduino]()
+##### [Code on Arduino](https://create.arduino.cc/editor/jbright91/f3e4ffc3-6386-4b1c-b2bf-0614defa624b/preview)
 ##### [Wireing Design on Tinker Cad]()
 ##### [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
 ##### [Design Blueprint on Google Drawings](https://docs.google.com/drawings/d/1qZ76DlaDXZF_Cr9F3ZvZoBRgsG1Z4dknvrHgPDDP1vY/edit?usp=sharing)
@@ -71,7 +71,7 @@ This is the official repository of the servo controlled rubber band launcher!
 > We are ready to print ad lazer cut! 
 [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
 
-### Code from Aurduino.cc
+### Code from Arduino.cc
 ```C++
 #include <Servo.h>
 
@@ -115,6 +115,7 @@ if(btn2State == HIGH)
 }
 
 ```
+> Additionally, here is the code on [Arduino.cc](https://create.arduino.cc/editor/jbright91/f3e4ffc3-6386-4b1c-b2bf-0614defa624b/preview)
 ### Fabrication, Lazer cutting and assembly
 ##### The beggining
 > To be honest, the begginig was both very easy and complicated.  The easy part was waiting for or designs to 3D print and lazer cut, however the not so fun part was getting to that point, as it was our first time having to do this and it was pretty complicated gettig it inly the folder just right.  However once we figured that out with the help of peers and Mr. H we were off to the races.
