@@ -72,7 +72,7 @@ This is the official repository of the servo controlled rubber band launcher!
 [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
 
 ### Code from Aurduino.cc
-'''c++
+```C++
 #include <Servo.h>
 
 Servo myServo;
@@ -113,8 +113,8 @@ if(btn2State == HIGH)
  } 
 
 }
-'''
 
+```
 ### Fabrication, Lazer cutting and assembly
 ##### The beggining
 > To be honest, the begginig was both very easy and complicated.  The easy part was waiting for or designs to 3D print and lazer cut, however the not so fun part was getting to that point, as it was our first time having to do this and it was pretty complicated gettig it inly the folder just right.  However once we figured that out with the help of peers and Mr. H we were off to the races.
