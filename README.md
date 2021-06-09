@@ -6,11 +6,11 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### [Criteria & Contraints](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#criteria-and-constraints)
 ##### [Materials](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#materials-1)
 ##### [Cad Design on OnShape](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#cad-deesign-on-onshape)
-##### [Code]() 
+##### [Code from Aurduino.cc]() 
 ##### [Fabrication, Lazer cutting and assembly]()
 ##### [Reflection]()
 
-### Quik Links To...
+### Quik Links Toooooooo...
 ##### [Onshape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
 ##### [Code on Aurduino]()
 ##### [Wireing Design on Tinker Cad]()
@@ -68,8 +68,21 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### Create a final assembly!
 > At this point all that needs to be done is to put everything together into a final assembly...
 ![image](https://user-images.githubusercontent.com/71406831/121391595-899d8080-c91c-11eb-9da7-e67129a070b4.png)
-> We are ready to print ad lazer cut!
-> [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
+> We are ready to print ad lazer cut! 
+[Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
+
+### Code from Aurduino.cc
+
+### Fabrication, Lazer cutting and assembly
+##### The beggining
+> To be honest, the begginig was both very easy and complicated.  The easy part was waiting for or designs to 3D print and lazer cut, however the not so fun part was getting to that point, as it was our first time having to do this and it was pretty complicated gettig it inly the folder just right.  However once we figured that out with the help of peers and Mr. H we were off to the races.
+##### The part after the beggining
+> At this point our parts have been 3D printed, and so it was time to get the base right.  This was a pretty interesting process, as we simple put our design into a folder, and than watched as the Lazer Cutter made out the holes and cuts that needed to be preformed.  At this point, we now have the base and have gathered all of the meterials such as the battery, aurduino, mini breadbard, nuts and screws, and so it is time to assemble.
+##### The point when we start to assemble
+> At this point it was time to assemble and all went very smoothly except for one problem which was that I kept putting the legs on the wrong side of the base, whoch made everything not work and complicated.  After this problem was resolved, we had some problems with the trinagle where the holes were not quite big enough, and so this was solved by simply taking a screw driver and making the holes just a little bit bigger, the same had to be done with the battery mount.  From there it was smooth sailing, as there were no problems, and all that was left was wiring everything up.
+##### Wiring
+> This process was also reletively easy, the only part that was a bit difficult was getting the wires attatched to the buttons, howver this problem was quikly resolves with the help of Mr. H and peers.  From here we used the design that we had createed in [tinker cad]() to help us implement the neccesary parts in real life.  
+
 ### Pictures
 
 ![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic2.jpg?raw=true)
