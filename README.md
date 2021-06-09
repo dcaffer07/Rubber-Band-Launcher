@@ -72,7 +72,7 @@ This is the official repository of the servo controlled rubber band launcher!
 [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
 
 ### Code from Aurduino.cc
-c++
+'''c++
 #include <Servo.h>
 
 Servo myServo;
@@ -112,7 +112,8 @@ if(btn2State == HIGH)
  
  } 
 
-}c++
+}
+'''
 
 ### Fabrication, Lazer cutting and assembly
 ##### The beggining
