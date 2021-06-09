@@ -28,8 +28,9 @@ Jabari: will research design ideas.
       
 ### Pictures
 
+![This is not so finished product](<img src="blob:chrome-untrusted://media-app/d737cc0d-8067-4865-afdf-65bd2134350b" alt="Screenshot 2021-06-02 3.33.29 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/120542777-80129680-c3b9-11eb-9420-c0bc74d22609.png))
+
 ![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic2.jpg?raw=true)
 
 ![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic.jpg?raw=true)
 
-![This is not so finished product](<img src="blob:chrome-untrusted://media-app/d737cc0d-8067-4865-afdf-65bd2134350b" alt="Screenshot 2021-06-02 3.33.29 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/120542777-80129680-c3b9-11eb-9420-c0bc74d22609.png))
