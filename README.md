@@ -2,15 +2,15 @@
 This is the official repository of the servo controlled rubber band launcher!
 
 ### Table of Contents 
-##### Overview 
-##### Criteria & Contraints
-##### Materials
-##### Cad Design on OnShape
-##### Code 
-##### Fabrication, Lazer cutting and assembly
-##### Reflection
+##### [Overview] 
+##### [Criteria & Contraints]
+##### [Materials]
+##### [Cad Design on OnShape]
+##### [Code] 
+##### [Fabrication, Lazer cutting and assembly]
+##### [Reflection]
 
-#### Overview
+### Overview
 ##### What are you trying to accomplish?
 >We (Jabari and Dominick), plan to design a device that shoots a rbber band. This will be accomplished by a rubber band being pulled tightly around variouse different 3D printed objects along with a servo at the end that will cause the rubber band to fly when the servo turns.  The tention of the rubber band will allow for this to occur and function. We will use variouse differnt platforms such as OnShape, Tinkercad, and Aurduino, to help us plan ot the variouse steps pof the process ad reach our end goal.   
 
