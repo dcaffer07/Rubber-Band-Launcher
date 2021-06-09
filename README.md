@@ -82,10 +82,8 @@ This is the official repository of the servo controlled rubber band launcher!
 > At this point it was time to assemble and all went very smoothly except for one problem which was that I kept putting the legs on the wrong side of the base, whoch made everything not work and complicated.  After this problem was resolved, we had some problems with the trinagle where the holes were not quite big enough, and so this was solved by simply taking a screw driver and making the holes just a little bit bigger, the same had to be done with the battery mount.  From there it was smooth sailing, as there were no problems, and all that was left was wiring everything up.
 ##### Wiring
 > This process was also reletively easy, the only part that was a bit difficult was getting the wires attatched to the buttons, howver this problem was quikly resolves with the help of Mr. H and peers.  From here we used the design that we had createed in [tinker cad]() to help us implement the neccesary parts in real life.  
-
-### Pictures
-
-![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic2.jpg?raw=true)
-
-![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic.jpg?raw=true)
+##### Final Product!!!!!!!!!!!!!!!!!!!!!!
+> This was the moment we had been waiting for and after several weeks of hard work it was time to test it. When we did we were excited to see everything work but the servo would freak out after pressing the button as the current had no where to go and no where to stop.  We resolved this pronlem by putting a resister in. With this, the buttons and everything worked, however the rubberbands that we had acces to were to big, but this was an easy fix as we simpply eeded smaller rubber bands and all things fnctioned great.  SUCCESS!
+##### Here are some images of final product
+![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic2.jpg?raw=true)![This is the finished product](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/engineering%20pic.jpg?raw=true)
 
