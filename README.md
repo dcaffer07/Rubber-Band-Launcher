@@ -5,7 +5,7 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### [Overview and Planning](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#overview-1) 
 ##### [Criteria & Contraints](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#criteria-and-constraints)
 ##### [Materials](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#materials-1)
-##### [Cad Design on OnShape]()
+##### [Cad Design on OnShape](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#cad-deesign-on-onshape)
 ##### [Code]() 
 ##### [Fabrication, Lazer cutting and assembly]()
 ##### [Reflection]()
@@ -59,9 +59,12 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### For Wiring
 > - 
 
-### Cad Deesign on OnShape 
-
-
+### Cad Design on OnShape 
+> When creating this design, it was important that the structure was functional and easy to use without it being over complicated.  Additionally, it was important that the structure fit the criteria of being able to fit in one hand, which sounds simple, however this become a very large and difficult factor when the rubber band needs to be stretched to a point of being able to shoot with some umph.  This is when we cam up with the idea of wraping the rubber band, in lther words, we constructed this design in simolaritie to how one owould shoot a ruber band with their hand (hook the band arond your middel finger, wrap it around your thumb which is pointed up, and than hook it to your pointer finger pointing to where you want the band to shoot, and then release it by straigtening your middle finger).  This is the design that we decided to go with, only instead of a pointer finger there was a 3D printed triangle, and instead of a thum there was another 3D printed trinagle, and finally, instead of a middle finger, there is a servo which releases the rubber band by turning its head.  
+##### Steps
+> 1) Create a base with all of the nessesary space and holes for additional attatchments including legs.
+> 2) Create the triangels which stretch the rubber band and allow for it to fly and attcth thos strategically to the base. ![This is not so finished product](<img src="blob:chrome-untrusted://media-app/d737cc0d-8067-4865-afdf-65bd2134350b" alt="Screenshot 2021-06-02 3.33.29 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/120542777-80129680-c3b9-11eb-9420-c0bc74d22609.png))
+> 3) Add all buttons, servos, ardunios, and battery mounts to the base which already contain muach of the holes for these things.
 
 
 ### Pictures
