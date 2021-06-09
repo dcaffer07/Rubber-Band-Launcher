@@ -4,11 +4,11 @@ This is the official repository of the servo controlled rubber band launcher!
 ### Table of Contents 
 ##### [Overview and Planning](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#overview-1) 
 ##### [Criteria & Contraints](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#criteria-and-constraints)
-##### [Materials]
-##### [Cad Design on OnShape]
-##### [Code] 
-##### [Fabrication, Lazer cutting and assembly]
-##### [Reflection]
+##### [Materials](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#materials-1)
+##### [Cad Design on OnShape]()
+##### [Code]() 
+##### [Fabrication, Lazer cutting and assembly]()
+##### [Reflection]()
 
 ### Quik Links
 ##### [Onshape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
@@ -35,12 +35,29 @@ This is the official repository of the servo controlled rubber band launcher!
 > - One Button turns the servo one way
 > - The other button turns the servo the other way
 ##### Constraints
-> - The servo could nly be made of materials found in the CHS sigma lab
+> - The servo could only be made of materials found in the CHS sigma lab
 > - This was out first time doing many of these things such as lazer cutting, preparing for 3D printing, and being in the lab!
 > - Partners could not colaborate as easily as we were in different spaces and areas throughout.
 
 ### Materials
-
+##### For structure
+> - 1 arduino sheild
+> - 1 prototyping sheild
+> - 1 mini breadboard
+> - SG92R 180 micro servo -micro servo horn double armed
+> - 2 panal mount pushbuttons
+> - 1 Battery mount
+> - 7 socket button head cap screws - #4-40 x 0.375
+> - 4 25x.5 aluminum hex male female standoff
+> - 3 1-72 Machine screw nuts
+> - 8 4-40 Michne screw nuts
+> - 1 9v battery
+> - 2 M2 machine screws and M2 machine nuts
+> - RUBBER BAND - soft strecth type 3
+> - Acrylic platform - 100cm x 200cm x 3cm
+> - 3D printed material
+##### For Wiring
+> - 
 ### Pictures
 
 ![This is not so finished product](<img src="blob:chrome-untrusted://media-app/d737cc0d-8067-4865-afdf-65bd2134350b" alt="Screenshot 2021-06-02 3.33.29 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/120542777-80129680-c3b9-11eb-9420-c0bc74d22609.png))
