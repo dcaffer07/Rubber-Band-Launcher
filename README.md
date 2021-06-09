@@ -76,6 +76,7 @@ This is the official repository of the servo controlled rubber band launcher!
 
 ### Circuit Digram from TinkerCad
 ![image](https://user-images.githubusercontent.com/71406831/121431221-1f4e0580-c947-11eb-8f51-4838868ada99.png)
+[Link to full TinkerCad Page](https://www.tinkercad.com/things/ag3MjW4io6a-stunning-lappi-kup/editel?sharecode=UPE8SZFzAkYlgTgjR3anIFhrNmDZtjjw436WC4KWRnw)
 
 ### Code from Arduino.cc
 ```C++
