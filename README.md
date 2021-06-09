@@ -6,6 +6,7 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### [Criteria & Contraints](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#criteria-and-constraints)
 ##### [Materials](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#materials-1)
 ##### [Cad Design on OnShape](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#cad-deesign-on-onshape)
+##### [Circuit Diagram on TinkerCad](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#circuit-digram-from-tinkercad)
 ##### [Code from Arduino.cc](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#code-from-aurduinocc-1) 
 ##### [Fabrication, Lazer cutting and assembly](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#fabrication-lazer-cutting-and-assembly-1)
 ##### [Reflection](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#reflection-1)
@@ -74,6 +75,7 @@ This is the official repository of the servo controlled rubber band launcher!
 [Link to full OnShape design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
 
 ### Circuit Digram from TinkerCad
+![image](https://user-images.githubusercontent.com/71406831/121431221-1f4e0580-c947-11eb-8f51-4838868ada99.png)
 
 ### Code from Arduino.cc
 ```C++
