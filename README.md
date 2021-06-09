@@ -3,7 +3,7 @@ This is the official repository of the servo controlled rubber band launcher!
 
 ### Table of Contents 
 ##### [Overview and Planning](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#overview-1) 
-##### [Criteria & Contraints]
+##### [Criteria & Contraints](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#criteria-and-constraints)
 ##### [Materials]
 ##### [Cad Design on OnShape]
 ##### [Code] 
@@ -34,7 +34,13 @@ This is the official repository of the servo controlled rubber band launcher!
 > - Battery-powered
 > - One Button turns the servo one way
 > - The other button turns the servo the other way
-      
+##### Constraints
+> - The servo could nly be made of materials found in the CHS sigma lab
+> - This was out first time doing many of these things such as lazer cutting, preparing for 3D printing, and being in the lab!
+> - Partners could not colaborate as easily as we were in different spaces and areas throughout.
+
+### Materials
+
 ### Pictures
 
 ![This is not so finished product](<img src="blob:chrome-untrusted://media-app/d737cc0d-8067-4865-afdf-65bd2134350b" alt="Screenshot 2021-06-02 3.33.29 PM.png"/>![image](https://user-images.githubusercontent.com/71406831/120542777-80129680-c3b9-11eb-9420-c0bc74d22609.png))
