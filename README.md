@@ -2,7 +2,7 @@
 This is the official repository of the servo controlled rubber band launcher!
 
 ### Table of Contents 
-##### [Overview](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#overview-1) 
+##### [Overview and Planning](https://github.com/dcaffer07/Rubber-Band-Launcher/blob/main/README.md#overview-1) 
 ##### [Criteria & Contraints]
 ##### [Materials]
 ##### [Cad Design on OnShape]
@@ -10,28 +10,24 @@ This is the official repository of the servo controlled rubber band launcher!
 ##### [Fabrication, Lazer cutting and assembly]
 ##### [Reflection]
 
+### Quik Links
+##### [Onshape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/7e691b198bd380ac2878944e)
+##### [Code on Aurduino]()
+##### [Wireing Design on Tinker Cad]()
+##### [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
+##### [Design Blueprint on Google Drawings](https://docs.google.com/drawings/d/1qZ76DlaDXZF_Cr9F3ZvZoBRgsG1Z4dknvrHgPDDP1vY/edit?usp=sharing)
+
 ### Overview
 ##### What are you trying to accomplish?
 >We (Jabari and Dominick), plan to design a device that shoots a rbber band. This will be accomplished by a rubber band being pulled tightly around variouse different 3D printed objects along with a servo at the end that will cause the rubber band to fly when the servo turns.  The tention of the rubber band will allow for this to occur and function. We will use variouse differnt platforms such as OnShape, Tinkercad, and Aurduino, to help us plan ot the variouse steps pof the process ad reach our end goal.   
+##### What’s it going to do?
+>As stated, the goal of the project id to use the variouse platforms we have learned to use to LAUNCH A RUBBER BAND!
+##### What’s it going to look like?
+>The base will be a peice of acrilic that is almost like a table with 4 3D printed legs hlding it up.  The aurduino, breadboard, and batteries will be attacthed to the side of the base facing the floor, and the buttons, servo, and other parts to stretch the rubber band will be located on the top part of the table. 
+##### Who is incharge of what?
+>Dominick: He will be in charge of helping create an initial design, and than will be in charge of designing and creating it on OnShape.  Additionally, Dominick will be there during the lazer cutting and 3D printing process, and will put together the design and all of its parts.  
+>Jabari: He will also be helping research design ideas to get the procces going.  Additionally, Jabari will be in charge of creating the code, and wiring for the design.  He will impliment his wiring design in the lab and int the final project.
 
-Criteria (goals):
-What’s it going to do?
-Launch a rubber band
-
-What’s it going to look like?
-There will be almost a table that is small enough to be hand held, and the battery and wiring will be hooked to the side facing the ground and than on the top there will be the buttons, servo, and other material that is used to tighten the rubber band into the launch position.
-Any optional goals, should things go well?  (added lights, buzzers, etc)
-We could possibly make the platform shooter move using a servo.
-
-Whose researching what?
-Dominick: will research other servo rubber band launchers for ideas.  
-Jabari: will research design ideas.
-
-### [OnShape Design](https://cvilleschools.onshape.com/documents/0dd79b927bf5381224f5dd72/w/ed12cf5fd3aabc61b859f110/e/853e3d7f52100516492cad3c)
-
-### [Design Blueprint on Google drawings](https://docs.google.com/drawings/d/1qZ76DlaDXZF_Cr9F3ZvZoBRgsG1Z4dknvrHgPDDP1vY/edit?usp=sharing)
-
-### [Pseudo Code](https://docs.google.com/document/d/15zp4eDbrOS1N2ccocQCLKSBN3L3EhV48NTX2vnqM8p8/edit)
 
       
 ### Pictures
